@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: pr5_20, Configuration: Debug Any CPU ------
+1>P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\Class1.cs(11,24,11,33): warning CS0169: The field 'pr5_20.Employee.firstName' is never used
+1>P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\Class1.cs(12,24,12,32): warning CS0169: The field 'pr5_20.Employee.lastName' is never used
+1>P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\Class1.cs(14,25,14,35): warning CS0169: The field 'pr5_20.Employee.hourlyRate' is never used
+1>P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\Class1.cs(15,25,15,40): warning CS0169: The field 'pr5_20.Employee.hoursOverFourty' is never used
+1>  pr5_20 -> P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\bin\Debug\pr5_20.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,6 @@
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\bin\Debug\pr5_20.exe.config
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\bin\Debug\pr5_20.exe
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\bin\Debug\pr5_20.pdb
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\obj\Debug\pr5_20.csprojResolveAssemblyReference.cache
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\obj\Debug\pr5_20.exe
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr5_20\pr5_20\obj\Debug\pr5_20.pdb

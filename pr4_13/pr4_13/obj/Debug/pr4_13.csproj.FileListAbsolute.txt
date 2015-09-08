@@ -1,0 +1,12 @@
+O:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\bin\Debug\pr4_13.exe.config
+O:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\bin\Debug\pr4_13.exe
+O:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\bin\Debug\pr4_13.pdb
+O:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\obj\Debug\pr4_13.csprojResolveAssemblyReference.cache
+O:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\obj\Debug\pr4_13.exe
+O:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\obj\Debug\pr4_13.pdb
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\bin\Debug\pr4_13.exe.config
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\obj\Debug\pr4_13.exe
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\obj\Debug\pr4_13.pdb
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\obj\Debug\pr4_13.csprojResolveAssemblyReference.cache
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\bin\Debug\pr4_13.exe
+P:\Courses\IS 6805, Developing Business Applications\LABS\pr4_13\pr4_13\bin\Debug\pr4_13.pdb
